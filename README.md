@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sriram Kannan</h1>
-<h3 align="center">An aspiring Data Scientist and a Game Developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marirs27&label=Profile%20views&color=262627&style=flat-square" alt="marirs27" /> </p>
 
